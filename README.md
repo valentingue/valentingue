@@ -1,6 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Valentin</h1>
+<h3 align="center">A fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentingue&label=Profile%20views&color=0e75b6&style=flat" alt="valentingue" /> </p>
+
+- 🔭 I’m currently working on [a fitness wordpress plugin](https://github.com/valentingue/workout-manager)
+
+- 🌱 I’m currently improving my skill in **PHP and about to start learning Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
